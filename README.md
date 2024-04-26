@@ -24,3 +24,7 @@ I created this project to better understand the concepts of web development, cre
 This project was deployed using the [AWS S3](https://aws.amazon.com/pt/s3/) service.
 
 You can visit through [this link](http://appleclonebydevtiagorcalado.s3-website.us-east-2.amazonaws.com/).
+
+## LICENSE
+
+[MIT](https://github.com/tiagrc/AppleCloneWebsitebyTiago/blob/main/LICENSE)
